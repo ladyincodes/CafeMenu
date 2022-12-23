@@ -4,7 +4,13 @@ p {
     text-align: center;
 }
 
+h1,
+h2 {
+    font-family: Impact, serif;
+}
+
 body {
+    font-family: sans-serif;
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
 }
 
