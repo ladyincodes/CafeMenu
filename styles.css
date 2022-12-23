@@ -19,6 +19,7 @@ h2 {
 
 body {
     font-family: sans-serif;
+    padding: 20px;
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
 }
 
